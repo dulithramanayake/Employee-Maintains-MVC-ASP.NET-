@@ -1,0 +1,166 @@
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EmployeeMaintainsMvC.dll.config
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EmployeeMaintainsMvC.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EmployeeMaintainsMvC.pdb
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Helpers.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Mvc.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Optimization.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Razor.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\WebGrease.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Helpers.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Mvc.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Optimization.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Razor.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.csproj.CopyComplete
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.dll
+C:\Users\Administrator\source\repos\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.pdb
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.csproj.AssemblyReference.cache
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.csproj.CoreCompileInputs.cache
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.pdb
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EmployeeMaintainsMvC.dll.config
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EmployeeMaintainsMvC.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EmployeeMaintainsMvC.pdb
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csc.exe
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csc.exe.config
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csc.rsp
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csi.exe
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csi.exe.config
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\csi.rsp
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.AppContext.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Collections.Immutable.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Console.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.Compression.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.FileSystem.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Net.Http.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Net.Sockets.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.ValueTuple.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.XPath.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\vbc.exe
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\vbc.exe.config
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\vbc.rsp
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\VBCSCompiler.exe
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\roslyn\VBCSCompiler.exe.config
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Antlr3.Runtime.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.SqlServer.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Microsoft.Web.Infrastructure.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Newtonsoft.Json.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Helpers.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Mvc.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Optimization.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Razor.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Deployment.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Razor.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\WebGrease.dll
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\EntityFramework.SqlServer.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Helpers.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Mvc.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Optimization.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.Razor.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Deployment.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\System.Web.WebPages.Razor.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Newtonsoft.Json.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Antlr3.Runtime.pdb
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dulith\Visual Studio\EmployeeMaintainsMvC\EmployeeMaintainsMvC\EmployeeMaintainsMvC\obj\Debug\EmployeeMaintainsMvC.csproj.CopyComplete
